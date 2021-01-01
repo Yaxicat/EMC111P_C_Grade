@@ -1,0 +1,19 @@
+*   {
+    margin: 0;
+    padding: 0;
+    box-sizing: boder-box;
+}
+
+body {
+    font-family: sans-serif;
+    overflow: hidden;
+    background: url("https://thumbs.gfycat.com/AdmiredDigitalHarrier-size_restricted.gif");
+}
+
+.scene,
+canvas {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
